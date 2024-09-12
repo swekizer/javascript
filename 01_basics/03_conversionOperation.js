@@ -46,3 +46,45 @@ let stringnumber = String(someNumber)
 console.log(stringnumber);
 console.log(typeof stringnumber);
 
+
+
+// ********************** Operation **************************
+
+let value =3
+let negValue = -value
+console.table([value, negValue]);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2/2);
+console.log(2*2);
+console.log(2**2);
+console.log(2%2);
+
+let str1 = "swekit"
+let str2 = "patel"
+
+console.log(str1 + str2);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log(1 + 1 + "2");
+console.log("1" + 2 + 2);
+
+
+console.log(+true);//1
+console.log(+"");//2
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let counter = 100
+counter++
+
+console.log(counter);
+
+
+
+
+
