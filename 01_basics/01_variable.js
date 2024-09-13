@@ -5,6 +5,10 @@ accountCity = "Ahmedadbad"
 
 let accountState;
 
+//Important: let allows a variable to be reassigned, while const does not.
+
+
+
 //accountId =2; //not allowed
 
 accountEmail = "hc@hc.com"
